@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068007538314",
+    "project_id": "kayko-challenge",
+    "storage_bucket": "kayko-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068007538314:android:a0b5f7bca90ad057327773",
+        "android_client_info": {
+          "package_name": "com.example.kayko_challenge_alliance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068007538314-3l0727o60ci3bavrf6v8soiaqgrh7soh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzbLmBLdRQ-o6qRnfH7fETfz4-bhxRps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068007538314-3l0727o60ci3bavrf6v8soiaqgrh7soh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
