@@ -1,16 +1,15 @@
-# kayko_challenge_alliance
+# Flutter Developer Challenge Kayko | Alliance Mbonigaba
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Use the application
 
-A few resources to get you started if this is your first Flutter project:
+You can install the application on your device or run an emulator.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- Clone this repo and go to the directory of this clone and run this command: `flutter run`
+- [Or get the APK to install on your device here](https://drive.google.com/file/d/1JlINUndpEUjtBZLrdoWkcwrt9g1L47uQ/view?usp=sharing)
+
+For help incase of isseus or any support
+[Email me ](alliancemboni@gmail.com)
